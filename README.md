@@ -32,10 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7EE787&height=100&section=footer"/>
-</p>
-
 
 
 
