@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @Anwesapanja
-- 👀 I’m interested in Web-development,Designing,AI-ML.....
-- 🌱 I’m currently pursuing B-Tech in Computer Science and Business Systems from Academy of Technology
-- 📫 How to reach me:-anwesapanja@gmail.com
+<h1 align="center">Hi 👋, I'm Anwesa Panja</h1>
+
+<h3 align="center">
+  Web Developer • Designer • AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  🎓 B.Tech in <b>Computer Science & Business Systems</b><br>
+  🏫 Academy of Technology
+</p>
+
+<p align="center">
+  🌱 Passionate about building creative web experiences,<br>
+  designing impactful visuals, and exploring intelligent systems
+</p>
+
+<p align="center">
+  📫 Reach me at: 
+  <a href="mailto:anwesapanja@gmail.com"><b>anwesapanja@gmail.com</b></a>
+</p>
+
 
 
 ## 🌐 Socials:
