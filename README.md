@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anwesa Panja</h1>
 
-<h3 align="center">
-  Web Developer • Designer • AI/ML Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=22&
+  pause=1000&
+  color=58A6FF&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Web+Developer;Designer;AI%2FML+Enthusiast;CSBS+Undergraduate" />
+</p>
 
 <p align="center">
   🎓 B.Tech in <b>Computer Science & Business Systems</b><br>
@@ -15,7 +23,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me at: 
+  📫 Reach me at:
   <a href="mailto:anwesapanja@gmail.com"><b>anwesapanja@gmail.com</b></a>
 </p>
 
