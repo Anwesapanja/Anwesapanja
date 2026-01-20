@@ -1,31 +1,41 @@
-<h1 align="center">Hi 👋, I'm Anwesa Panja</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, 
+  I'm Anwesa Panja
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&
-  size=22&
-  pause=1000&
-  color=58A6FF&
+  size=24&
+  pause=1200&
+  color=36BCF7&
   center=true&
   vCenter=true&
-  width=500&
-  lines=Web+Developer;Designer;AI%2FML+Enthusiast;CSBS+Undergraduate" />
+  width=520&
+  lines=Web+Developer;Creative+Designer;AI%2FML+Enthusiast;CSBS+Undergraduate" />
 </p>
 
 <p align="center">
-  🎓 B.Tech in <b>Computer Science & Business Systems</b><br>
+  🎓 <b>B.Tech in Computer Science & Business Systems</b><br>
   🏫 Academy of Technology
 </p>
 
 <p align="center">
-  🌱 Passionate about building creative web experiences,<br>
-  designing impactful visuals, and exploring intelligent systems
+  🌱 Building <b>creative web experiences</b>,<br>
+  designing <b>impactful visuals</b>, and exploring <b>intelligent systems</b>
 </p>
 
 <p align="center">
-  📫 Reach me at:
-  <a href="mailto:anwesapanja@gmail.com"><b>anwesapanja@gmail.com</b></a>
+  📫 Reach me at<br>
+  <a href="mailto:anwesapanja@gmail.com">
+    <b>anwesapanja@gmail.com</b>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7EE787&height=100&section=footer"/>
+</p>
+
 
 
 
